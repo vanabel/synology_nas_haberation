@@ -166,8 +166,9 @@ sudo systemctl start <服务名>
 
 ## 📖 相关文档
 
-- **CHANGELOG.md** - 完整的版本历史和修复记录
-- **HIBERNATION_GUIDE.md** - 硬盘休眠问题诊断和解决方案
+- **[CHANGELOG.md](CHANGELOG.md)** - 完整的版本历史和修复记录
+- **[HIBERNATION_GUIDE.md](HIBERNATION_GUIDE.md)** - 硬盘休眠问题诊断和解决方案
+- **[INDEX.md](INDEX.md)** - 文档索引和快速导航
 
 ---
 
@@ -201,7 +202,7 @@ sudo systemctl start <服务名>
 - **v2.0** (2026-02-08): 启动和停止脚本全面优化
 - **v1.0** (2026-02-07): 初始版本
 
-完整变更历史请查看 `CHANGELOG.md`
+完整变更历史请查看 **[CHANGELOG.md](CHANGELOG.md)**
 
 ---
 

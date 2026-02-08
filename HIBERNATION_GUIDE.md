@@ -407,8 +407,9 @@ sudo iotop -P -a
 - `diagnose_hibernation.sh` - 诊断问题
 
 **相关文档**:
-- `README.md` - 脚本使用说明
-- `CHANGELOG.md` - 版本历史
+- **[README.md](README.md)** - 脚本使用说明
+- **[CHANGELOG.md](CHANGELOG.md)** - 版本历史
+- **[INDEX.md](INDEX.md)** - 文档索引
 
 ---
 

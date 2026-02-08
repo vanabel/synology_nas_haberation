@@ -188,19 +188,20 @@ timeout 3 su - vanabel -c "pm2 list 2>/dev/null | ..."
 合并和简化文档结构：
 
 **保留的文档**:
-- ✅ `README.md` - 主文档（重写）
-- ✅ `CHANGELOG.md` - 本文件（新建）
-- ✅ `HIBERNATION_GUIDE.md` - 休眠指南（合并）
+- ✅ **[README.md](README.md)** - 主文档（重写）
+- ✅ **[CHANGELOG.md](CHANGELOG.md)** - 本文件（新建）
+- ✅ **[HIBERNATION_GUIDE.md](HIBERNATION_GUIDE.md)** - 休眠指南（合并）
+- ✅ **[INDEX.md](INDEX.md)** - 文档索引（新建）
 
 **已归档/删除的文档**:
-- 🗑️ `README_SCRIPTS.md` - 内容合并到README.md
-- 🗑️ `COMPARISON.md` - 内容合并到CHANGELOG.md
-- 🗑️ `FIX_LOG.md` - 内容合并到CHANGELOG.md
-- 🗑️ `TROUBLESHOOTING.md` - 内容合并到README.md
-- 🗑️ `STREAMLIT_REMOVAL.md` - 内容合并到CHANGELOG.md
-- 🗑️ `nas_hibernation_analysis.md` - 内容合并到HIBERNATION_GUIDE.md
-- 🗑️ `nas_hibernation_deep_analysis.md` - 内容合并到HIBERNATION_GUIDE.md
-- 🗑️ `HIBERNATION_SOLUTION_SUMMARY.md` - 内容合并到HIBERNATION_GUIDE.md
+- 🗑️ `README_SCRIPTS.md` - 内容合并到 **[README.md](README.md)**
+- 🗑️ `COMPARISON.md` - 内容合并到 **[CHANGELOG.md](CHANGELOG.md)**
+- 🗑️ `FIX_LOG.md` - 内容合并到 **[CHANGELOG.md](CHANGELOG.md)**
+- 🗑️ `TROUBLESHOOTING.md` - 内容合并到 **[README.md](README.md)**
+- 🗑️ `STREAMLIT_REMOVAL.md` - 内容合并到 **[CHANGELOG.md](CHANGELOG.md)**
+- 🗑️ `nas_hibernation_analysis.md` - 内容合并到 **[HIBERNATION_GUIDE.md](HIBERNATION_GUIDE.md)**
+- 🗑️ `nas_hibernation_deep_analysis.md` - 内容合并到 **[HIBERNATION_GUIDE.md](HIBERNATION_GUIDE.md)**
+- 🗑️ `HIBERNATION_SOLUTION_SUMMARY.md` - 内容合并到 **[HIBERNATION_GUIDE.md](HIBERNATION_GUIDE.md)**
 
 ---
 
